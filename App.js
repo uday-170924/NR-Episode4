@@ -1,5 +1,28 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
+
+
+
+/*
+*Hedaer 
+* -logo
+* -links=container
+*
+*Body
+* -Search
+* -RestaurantContainer
+*   -RestaurantCard
+*   -Img
+*   -Name od Res,star rating,cusinies,delivery time
+*
+*Footer
+* -copyright
+* -Links
+* -Address
+* -Contact
+*
+
+*/
 const App = () => {
   return (
     <div className="header">
